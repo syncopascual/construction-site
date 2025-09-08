@@ -19,7 +19,7 @@
     }}
 />
 <div
-    class="navbar flex h-24 items-stretch justify-between px-10 bg-royal-blue text-center lg:space-x-60 {showNav
+    class="navbar flex h-24 items-stretch justify-between bg-royal-blue px-10 text-center lg:space-x-60 {showNav
         ? 'show'
         : 'hide'} z-1000 w-full {page.route.id === base ? 'absolute' : 'relative'}"
 >

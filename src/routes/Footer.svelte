@@ -9,7 +9,7 @@
 
 <footer class="mt-auto h-auto w-auto justify-items-center bg-royal-blue text-left">
     <div class="flex w-4/5 items-center justify-between p-6">
-        <div class="flex flex-row items-center justify-center gap-4 w-full">
+        <div class="flex w-full flex-row items-center justify-center gap-4">
             <a
                 class="h-10 w-10"
                 href="https://maps.app.goo.gl/yJZHuNyxvLRwqU6h6"
@@ -51,7 +51,12 @@
                 >
                     <img src={fb} alt="Location" class="h-full w-full" />
                 </a>
-                <a class="h-15 w-15" href="mailto:ranolidoconstruction@gmail.com" target="_blank" rel="noopener noreferrer">
+                <a
+                    class="h-15 w-15"
+                    href="mailto:ranolidoconstruction@gmail.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
                     <img src={mail} alt="Location" class="h-full w-full" />
                 </a>
                 <a class="h-15 w-15" href="{base}/contact-us/">
