@@ -20,8 +20,8 @@
 <div class="h-[100%] w-auto text-center">
     <div class="relative flex h-full w-full">
         <img class="z-0 opacity-50" src={herobg} alt="background" />
-        <h1 class="absolute left-0 right-0 top-3/8 z-10 text-7xl font-bold">
-            WHERE SMART DESIGN<br />MEETS SOLID<br />CONSTRUCTION.
+        <h1 class="absolute left-0 right-0 top-[45%] z-10 text-7xl font-bold">
+            DESIGN &bull; BUILD &bull; INSPIRE
         </h1>
     </div>
     <a href="#three_columns" onclick={handleAnchorClick}>
