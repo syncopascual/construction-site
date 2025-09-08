@@ -7,9 +7,9 @@
     import phone from '$lib/icons/phone.svg';
 </script>
 
-<footer class="mt-auto h-auto w-auto items-center justify-items-center bg-royal-blue text-left">
-    <div class="flex w-3/5 items-center justify-between p-4">
-        <div class="flex flex-row items-center gap-4">
+<footer class="mt-auto h-auto w-auto justify-items-center bg-royal-blue text-left">
+    <div class="flex w-4/5 items-center justify-between p-6">
+        <div class="flex flex-row items-center justify-center gap-4 w-full">
             <a
                 class="h-10 w-10"
                 href="https://maps.app.goo.gl/yJZHuNyxvLRwqU6h6"
@@ -19,7 +19,7 @@
                 <img src={location} alt="Location" class="h-full w-full" />
             </a>
             <div class="flex flex-col items-center">
-                <div class="flex flex-row gap-10">
+                <div class="flex flex-row gap-5">
                     <a
                         class="flex flex-col items-start"
                         href="https://maps.app.goo.gl/yJZHuNyxvLRwqU6h6"
@@ -42,22 +42,22 @@
                     </a>
                 </div>
             </div>
-        </div>
-        <div class="mt-1 flex flex-row items-center justify-center gap-4">
-            <a
-                class="h-15 w-15"
-                href="https://www.facebook.com/share/12DfKeGAPrw/?mibextid=wwXIfr"
-                target="_blank"
-                rel="noopener noreferrer"
-            >
-                <img src={fb} alt="Location" class="h-full w-full" />
-            </a>
-            <a class="h-15 w-15" href="mailto:ranolidoconstruction@gmail.com" target="_blank" rel="noopener noreferrer">
-                <img src={mail} alt="Location" class="h-full w-full" />
-            </a>
-            <a class="h-15 w-15" href="{base}/contact-us/">
-                <img src={phone} alt="Location" class="h-full w-full" />
-            </a>
+            <div class="mt-1 flex flex-row items-center justify-center gap-4">
+                <a
+                    class="h-15 w-15"
+                    href="https://www.facebook.com/share/12DfKeGAPrw/?mibextid=wwXIfr"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img src={fb} alt="Location" class="h-full w-full" />
+                </a>
+                <a class="h-15 w-15" href="mailto:ranolidoconstruction@gmail.com" target="_blank" rel="noopener noreferrer">
+                    <img src={mail} alt="Location" class="h-full w-full" />
+                </a>
+                <a class="h-15 w-15" href="{base}/contact-us/">
+                    <img src={phone} alt="Location" class="h-full w-full" />
+                </a>
+            </div>
         </div>
     </div>
 </footer>
