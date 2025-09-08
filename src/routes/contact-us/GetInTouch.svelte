@@ -21,13 +21,13 @@
                 </div>
                 <div class="ml-5">
                     <div>
-                        <h2 class="font-bold text-left text-lg">RANCC Main Office</h2>
+                        <h2 class="text-left text-lg font-bold">RANCC Main Office</h2>
                         <h2 class="text-left text-lg">165 Roosevelt Ave, Unit B, RAMA Building</h2>
                         <h2 class="text-left text-lg">San Francisco del Monte, Quezon City</h2>
                         <h2 class="text-left text-lg">1105 Metro Manila</h2>
                     </div>
                     <div>
-                        <h2 class="font-bold text-left text-lg">RANCC Cameron</h2>
+                        <h2 class="text-left text-lg font-bold">RANCC Cameron</h2>
                         <h2 class="text-left text-lg">Unit 3608, Cameron Residences</h2>
                         <h2 class="text-left text-lg">Mapalad St., Brgy. Mariblo</h2>
                         <h2 class="text-left text-lg">San Francisco del Monte, Quezon City</h2>
@@ -42,11 +42,11 @@
                 </div>
                 <div class="ml-5">
                     <div>
-                        <h2 class="font-bold text-left text-lg">RANCC Main Office</h2>
+                        <h2 class="text-left text-lg font-bold">RANCC Main Office</h2>
                         <h2 class="text-left text-lg">+63 997 950 8720</h2>
                     </div>
                     <div>
-                        <h2 class="font-bold text-left text-lg">RANCC Cameron</h2>
+                        <h2 class="text-left text-lg font-bold">RANCC Cameron</h2>
                         <h2 class="text-left text-lg">+63 946 269 5387</h2>
                     </div>
                 </div>
