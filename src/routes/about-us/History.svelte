@@ -26,7 +26,7 @@
     // };
 </script>
 
-<div class="ml-8 mr-16 flex flex-row justify-evenly">
+<div class="ml-8 mr-16 flex flex-row">
     <div class="w-3/5">
         <About heading={'Our History'} body_1={par1} body_2={par2} body_3={par3} />
     </div>
